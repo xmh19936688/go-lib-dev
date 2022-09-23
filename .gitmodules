@@ -1,0 +1,3 @@
+[submodule "go-dispatcher"]
+	path = go-dispatcher
+	url = https://github.com/xmh19936688/go-dispatcher
