@@ -2,3 +2,7 @@
 	path = go-dispatcher
 	url = https://github.com/xmh19936688/go-dispatcher
 	branch = test
+[submodule "go-requester"]
+	path = go-requester
+	url = https://github.com/xmh19936688/go-requester
+	branch = main

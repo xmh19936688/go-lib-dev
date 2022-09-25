@@ -23,6 +23,7 @@
 ## 添加git子模块
 
 - `git submodule add https://github.com/xmh19936688/go-dispatcher ./go-dispatcher` 添加子模块
+- `git submodule add -b main --name go-requester https://github.com/xmh19936688/go-requester ./go-requester` 添加子模块指定分支并命名
 
 ## go-dispatcher git子模块配置文件
 
