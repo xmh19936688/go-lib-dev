@@ -45,7 +45,7 @@
 
 git只能记录所用的submodule的commit号，
 也是根据submodule的head指向的commit号来判断是否clean。
-`.gitmodules`中的branch是human-face的，git并不识别。
+`.gitmodules`中的branch是给人看的，git并不识别。
 
 - `config -f .gitmodules submodule.go-dispatcher.branch test`
 - `git add .gitmodules`
