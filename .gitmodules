@@ -6,3 +6,7 @@
 	path = go-requester
 	url = https://github.com/xmh19936688/go-requester
 	branch = main
+[submodule "go-number"]
+	path = go-number
+	url = https://github.com/xmh19936688/go-number.git
+	branch = main
