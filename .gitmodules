@@ -10,3 +10,7 @@
 	path = go-number
 	url = https://github.com/xmh19936688/go-number.git
 	branch = main
+[submodule "go-seeker"]
+	path = go-seeker
+	url = https://github.com/xmh19936688/go-seeker.git
+	branch = main

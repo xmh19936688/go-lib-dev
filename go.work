@@ -5,4 +5,5 @@ use (
 	./go-dispatcher
 	./go-number
 	./go-requester
+	./go-seeker
 )
